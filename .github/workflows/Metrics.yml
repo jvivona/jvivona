@@ -39,7 +39,7 @@ jobs:
           plugin_habits_facts: yes  # отображает анализ вашей активность за неделю
           plugin_habits_charts: yes  # отображает характеристики
 
-          plugin_licenses: yes  # информация о лицензиях
+          plugin_licenses: no  # информация о лицензиях
           plugin_licenses_setup: npm ci  # подробная информация о применяемых лицензиях
 
           plugin_skyline: no  # плагин 3д активности скайлайн
